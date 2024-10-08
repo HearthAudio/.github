@@ -1,4 +1,4 @@
-<img src="logo.png"/>
+<img src="../logo.png"/>
 <h1>Hearth Audio</h1>
 Hearth Industries builds tools that increase performance and computational efficiency for Discord Bots. Such as our latest and first project: Hearth.
 <hr/>
